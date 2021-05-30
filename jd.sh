@@ -118,9 +118,9 @@ function Combin_All {
   #京东健康社区(jd_health.js)
   export JDHEALTH_SHARECODES=$(Combin_Sub ForOtherHealth "T022u_x3QRke_EnVIR_wnPEIcQCjVfnoaW5kRrbA@T012a1zrlZeWI-dHCjVfnoaW5kRrbA@T0205KkcHkJujwKkXXy9wK9NCjVfnoaW5kRrbA")
   #城城领现金(jd_city.js)
-  export CITY_SHARECODES=$(Combin_Sub ForOtherCity "RtGKzOuhFwqhK4eaH9di100ZFmlGqaUMSNIGKTHWEv8xsaIkyg@RtGKzOusQQ2nfIWaFd1n177_wg-3_DSkOm53gx1zuUqzaEfQMw@XdSvlb_4QAigfs_WW9R_mgmuRUszf_LeSfl46zlwbw@RtGKrqTCF0nZAcXiYIBGmjxMiR8vxpKs-bwllKwxMNC-iSn4")
+  export CITY_SHARECODES=$(Combin_Sub ForOtherCity "RtGKz73yQg2rfYqYEtQyg54Qf0rzMwYnGNnNPBtUX73sCQLYAw@RtGKzuj2Qgn2eoDIQdRi33y3Ia3WBMhDdcZKKrHbHiCawnwvzQ@RtGKzOugSVz3fYbIFIY7hU4potzTlHJYwbV8Grcs_Pgimmc_5w@RtGKrqTCF0nZAcXiYIBGmjxMiR8vxpKs-bwllKwxMNC-iSn4")
   #手机狂欢城(jd_carnivalcity.js)活动时间: 2021-5-24至2021-6-20
-  export JD818_SHARECODES=$(Combin_Sub ForOtherCarni "bc1a317d-6a73-4b5c-8b7d-9b0b17b3b035@82c9d822-8ca8-4adc-aabe-d9fdd25f552f@07741755-758a-4f07-bca7-96dbb4b5a556@2f4aaab3-32c0-47ec-90a6-4aa5f5aa339d")
+  export JD818_SHARECODES=$(Combin_Sub ForOtherCarni "")
 }
 
 ## 转换JD_BEAN_SIGN_STOP_NOTIFY或JD_BEAN_SIGN_NOTIFY_SIMPLE
